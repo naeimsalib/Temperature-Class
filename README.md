@@ -7,4 +7,6 @@ The Temperature Class takes in a auser Input , and that input represents the Wea
 It converts That Temperature From fahrenheit to celsius and Kelvin <br>
 then Displays it to the User To be able to use it in there Weather channel Blog or anywhere else<Br>
   <Br><Br>
+    <H1> Examble Out Put</H1>
+  <Br><Br>
 <img src="https://ucarecdn.com/cf16dcf3-67df-4b90-a834-13498fd116d3/ScreenShot20210924at54715PM.png">
